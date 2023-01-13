@@ -8,3 +8,7 @@ Practice, Sing Better.
 - Visualize Soundwaves
 - Pitch Detection
 - MIDI MR Playing
+
+## Reference
+
+- https://podcast.adobe.com/miccheck
